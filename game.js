@@ -20,7 +20,7 @@ function playRound(humanChoice, computerChoice) {
   let result = "";
 
   if (humanChoice === computerChoice) {
-    result = `its a tie you both chose${humanChoice} `;
+    result = `its a tie you both chose ${humanChoice} `;
     console.log(result);
   } else if (
     (humanChoice === "rock" && computerChoice === "scissors") ||
@@ -60,5 +60,5 @@ document.querySelector("#paper").addEventListener("click", () => {
   playRound("paper", getComputerChoice());
 });
 document.querySelector("#scissor").addEventListener("click", () => {
-  playRound("scissor", getComputerChoice());
+  playRound("scissors", getComputerChoice());
 });
