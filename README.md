@@ -4,12 +4,12 @@ The complete version of my Rock Paper Scissors Game
 
 #### technologies used
 
-HTML.
-JAVASCRIPT(javaScript).
-GIT.
+HTML
+JAVASCRIPT(javaScript)
+GIT
 
 #### skilled demonstrated through this exercise
 
 DOM manipulation.
-callbacks ( mostly Asynchronous callbacks in this exercise).
-git branching.
+Callbacks ( mostly Asynchronous callbacks in this exercise).
+Git branching
